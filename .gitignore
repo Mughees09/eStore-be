@@ -3,6 +3,9 @@
 # env file
 .env
 
+# config files
+/config
+
 # package files
 /package.json
 /package-lock.json
