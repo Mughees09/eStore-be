@@ -7,9 +7,6 @@
 /package.json
 /package-lock.json
 
-# dockerfile
-/Dockerfile
-
 # Editor/IDE specific files and directories
 .vscode/
 .idea/
